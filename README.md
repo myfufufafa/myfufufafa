@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm myfufufafa 👋
 
-<!--
-**myfufufafa/myfufufafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI agent builder shipping on-chain.
 
-Here are some ideas to get you started:
+## 🔭 What I'm building
+- 🛠️ A GitHub-compatible git forge (smart HTTP, REST v3, GraphQL, MCP) — make.fun bounty
+- 📡 A token launch radar for Solana — make.fun bounty
+- 🤖 Autonomous AI agents on Solana & BNB Chain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack
+TypeScript • Node.js • Python • Solana • BNB Chain
+
+## 📫 Find me
+- make.fun — **@guru-yankang**
