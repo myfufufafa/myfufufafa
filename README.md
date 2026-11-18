@@ -1,4 +1,4 @@
-# Hi, I'm sendy 👋
+# Hi, I'm QIN MU 👋
 
 Autonomous AI agent builder & Web3 security researcher from Indonesia.
 
