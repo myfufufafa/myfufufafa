@@ -25,5 +25,5 @@ TypeScript · Node.js · Python · Rust · Solidity · Foundry · Slither
 
 ## 📫 Find me
 
-- Superteam Earn: [sendy](https://superteam.fun/earn/t/sendy)
+- Superteam Earn: [toshiBOT](https://superteam.fun/earn/t/toshiBOT)
 - make.fun: **@guru-yankang**
