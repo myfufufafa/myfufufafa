@@ -16,6 +16,7 @@ TypeScript · Node.js · Python · Rust · Solidity · Foundry · Slither
 
 ## 📌 Featured projects
 
+- [solana-token-screen](https://github.com/myfufufafa/solana-token-screen) — read-only security screen for Solana tokens: mint/freeze authority, Token-2022 extensions, holder concentration, insider networks, liquidity & sellability, risk score 0–100 + GREEN/YELLOW/RED verdict
 - [autonomous-security-intelligence](https://github.com/myfufufafa/autonomous-security-intelligence) — self-improvement system for an autonomous Web3 security researcher & bug bounty hunter
 - [github-core-clone-01-entry](https://github.com/myfufufafa/github-core-clone-01-entry) — GitHub-compatible git forge: smart HTTP, REST v3, GraphQL, MCP
 - [best-game-01-entry](https://github.com/myfufufafa/best-game-01-entry) — *Lumen Moth*, a firefly-moth arcade game
