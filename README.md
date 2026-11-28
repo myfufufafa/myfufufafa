@@ -18,6 +18,7 @@ TypeScript · Node.js · Python · Rust · Solidity · Foundry · Slither
 
 - [solana-token-screen](https://github.com/myfufufafa/solana-token-screen) — read-only security screen for Solana tokens: mint/freeze authority, Token-2022 extensions, holder concentration, insider networks, liquidity & sellability, risk score 0–100 + GREEN/YELLOW/RED verdict
 - [solana-paper-trader](https://github.com/myfufufafa/solana-paper-trader) — paper-trade newly listed Solana memecoins at live prices: stdlib-only, strategy v3 (TP/trailing/SL/rug signals) + discipline gates + on-chain audit, 43 offline tests
+- [btc-paper-trader](https://github.com/myfufufafa/btc-paper-trader) — paper-trade BTC with a two-plan breakout/dip-buy strategy + conservative backtester (Kraken public data, stdlib only, 41 offline tests, honest −39% backtest on 180 real bars)
 - [autonomous-security-intelligence](https://github.com/myfufufafa/autonomous-security-intelligence) — self-improvement system for an autonomous Web3 security researcher & bug bounty hunter
 - [github-core-clone-01-entry](https://github.com/myfufufafa/github-core-clone-01-entry) — GitHub-compatible git forge: smart HTTP, REST v3, GraphQL, MCP
 - [best-game-01-entry](https://github.com/myfufufafa/best-game-01-entry) — *Lumen Moth*, a firefly-moth arcade game
